@@ -1,10 +1,10 @@
 **LIBRERIA UTILIZADA**: SFML (Exactamente la version 3.1.0)
 
-**Como Compilar?:**
+**COMO COMPILAR?:**
 
 Ya teniendo el proyecto en mano, solamente presiona "f5" y este compilara.
 
-**Como ejecutar el programa?**
+**COMO EJECUTAR EL PROGRAMA?**
 
 Tras iniciar, presiona "ENTER" para empezar.
 
